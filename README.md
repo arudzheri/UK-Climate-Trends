@@ -29,7 +29,7 @@ The notebook includes:
 ## Key results
 
 - The linear trend shows warming of about 0.10 °C per decade.
-- The mean temperature for 1884–1913 was about 8.20 °C, versus about 9.47 °C for 1996–2025, a difference of roughly 1.27 °C.
+- The mean temperature for 1884–1913 was 8.03 °C, versus 9.32 °C for 1996–2025, a difference of about 1.29 °C.
 - All ten warmest years in the record occurred after 2000.
 - The ARIMA(2,1,2) forecast remains close to 9.7 °C, which indicates that this simple model does not capture the long-term warming trend well.
 
