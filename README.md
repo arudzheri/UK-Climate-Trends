@@ -33,6 +33,11 @@ The notebook includes:
 - All ten warmest years in the record occurred after 2000.
 - The ARIMA(2,1,2) forecast remains close to 9.7 °C, which indicates that this simple model does not capture the long-term warming trend well.
 
+## Interactive Tableau Dashboard
+
+View the interactive dashboard on Tableau Public: 
+https://public.tableau.com/app/profile/andzhelo.rudzheri/viz/UKTemperatures1884-2025/UKTemperatures1884-2025
+
 ## 🔧 Requirements
 
 Install dependencies:
